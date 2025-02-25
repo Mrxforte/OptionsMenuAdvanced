@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OptionsMenuApp</string>
+    <string name="home">Home</string>
+    <string name="blog">Blog</string>
+    <string name="about">About</string>
+    <string name="features">Features</string>
+    <string name="android_app">Android App</string>
+    <string name="ios_app">Ios App</string>
+    <string name="flutter_app">Flutter App</string>
+    <string name="options_menu_app">Options Menu App</string>
+</resources>

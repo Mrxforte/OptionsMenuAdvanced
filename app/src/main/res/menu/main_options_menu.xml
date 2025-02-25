@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/blog"
+        android:title="@string/blog" />
+    <item
+        android:id="@+id/about"
+        android:title="@string/about" />
+    <item android:id="@+id/features" android:title="@string/features">
+        <menu>
+            <item android:id="@+id/androidApp" android:title="@string/android_app"/>
+            <item android:id="@+id/iosApp" android:title="@string/ios_app"/>
+            <item android:id="@+id/flutterApp" android:title="@string/flutter_app"/>
+        </menu>
+    </item>
+</menu>
